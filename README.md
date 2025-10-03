@@ -3,7 +3,7 @@
 
 ## About the Author
 
-- **Name:** Nihal DR
+- **Name:** M Tanusree Reddy
 - **College:** CMR Institute of Technology
 - **Branch:** Artificial Intelligence & Data Science (AI&DS)
 
